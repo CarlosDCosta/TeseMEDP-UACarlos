@@ -1,4 +1,4 @@
-#Author-
+#Author-Carlos Costa
 #Description-Criar o Vaso (do Caso de Estudo 2)
 
 import adsk.core, adsk.fusion, traceback
