@@ -5,17 +5,17 @@ Para acessar esses códigos finais e explorar mais detalhes sobre a sua implemen
 Organização dos Códigos por Casos de Estudo e Aplicação
 Caso de Estudo 1:
 
- ScriptTeseFormaCE1 = Código da Forma Final (com padrão):
-        Representa a versão final do código desenvolvido para o caso de estudo 1, incorporando padrões e dimensões específicos.
-        
- SlidersTesePadrao = Add-in:
-        Complemento desenvolvido para permitir a manipulação posterior dos valores dos parâmetros da forma final.
-        
- ScriptEscala = Escala:
-        Código referente à implementação da escala necessária para a representação do encolhimento.
-        
- ScriptEixoCentral =  Distância do Eixo Central:
-        Código relacionado à medição e ajuste da distância do eixo central.
+  ScriptTeseFormaCE1 = Código da Forma Final (com padrão):
+         Representa a versão final do código desenvolvido para o caso de estudo 1, incorporando padrões e dimensões específicos.
+         
+  SlidersTesePadrao = Add-in:
+         Complemento desenvolvido para permitir a manipulação posterior dos valores dos parâmetros da forma final.
+         
+  ScriptEscala = Escala:
+         Código referente à implementação da escala necessária para a representação do encolhimento.
+         
+  ScriptEixoCentral =  Distância do Eixo Central:
+         Código relacionado à medição e ajuste da distância do eixo central.
         
 
 Caso de Estudo 2:
@@ -23,10 +23,10 @@ Caso de Estudo 2:
    ScriptTeseFormaCE2 = Código da Forma:
         Similar ao caso de estudo 1, este código representa a versão final desenvolvida para o caso de estudo 2, incorporando todos os ajustes e otimizações específicas.
         
-    SlidersCasoEstudo2 = Add-in:
+   SlidersCasoEstudo2 = Add-in:
         Complemento desenvolvido para permitir a manipulação posterior dos valores dos parâmetros da forma final.
         
-    ScriptCAM = Código de CAM:
+   ScriptCAM = Código de CAM:
         Código responsável pela criação do CAM (Computer-Aided Manufacturing) para o caso de estudo 2.
         
 
