@@ -1,5 +1,5 @@
 # TeseMestradoCarlos
-Este repositário é referente á disssertação "Aplicação de ferramentas computacionais no design de produto: um estudo exploratório" por Carlos Costa
+Este repositário é referente á disssertação "Aplicação de ferramentas computacionais no design de produto: um estudo exploratório" por Carlos Costa, de momento ainda aguardando a realização da defesa.
 
 
 Dada a natureza digital do trabalho desta dissertação, foram incluídos nos anexos os códigos finais que desempenharam um papel crucial na sua elaboração. Embora não tenham sido incluídos todos os códigos desenvolvidos, foram selecionados os mais importantes, fundamentais para compreender e reproduzir os resultados discutidos no texto principal.
