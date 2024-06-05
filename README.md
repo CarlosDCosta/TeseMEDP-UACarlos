@@ -32,7 +32,9 @@ Caso de Estudo 2:
    ScriptCAM = Código de CAM:
         Código responsável pela criação do CAM (Computer-Aided Manufacturing) para o caso de estudo 2.
         
-
+ Aplicação Prática:  
+   
+   Código da forma: O código de forma nesta seção corresponde à implementação final da aplicação desenvolvida como parte deste trabalho.
 
 Este repositório não só facilita a compreensão dos métodos e resultados discutidos, mas também proporciona uma base sólida para futuros trabalhos e desenvolvimentos na área de estudo abordada pela dissertação.
 Os códigos dos scripts, podem ser individualmente verificados através da análise dos ficheiros .py, bem como os códigos do add-ins onde houve maior intervenção (no caso dos add-ins os ficheiros são unicamente de consulta e não são funcionais, para usá-los é necessário baixar e seguir as instruções em baixo)
