@@ -24,4 +24,7 @@ Caso de Estudo 2:
         Código responsável pela criação do CAM (Computer-Aided Manufacturing) para o caso de estudo 2.
 
 
-Este repositório não só facilita a compreensão dos métodos e resultados discutidos, mas também proporciona uma base sólida para futuros trabalhos e desenvolvimentos na área de estudo abordada pela dissertação
+Este repositório não só facilita a compreensão dos métodos e resultados discutidos, mas também proporciona uma base sólida para futuros trabalhos e desenvolvimentos na área de estudo abordada pela dissertação.
+Os códigos dos scripts, bem como a componente dos add-ins em que houve intervenção, podem ser individualmente verificados através da análise do scripts, para utilização dos mesmos baixar as pastas zipadas e seguir as instruções (da instalação manual), do seguinte link: https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/How-to-install-an-ADD-IN-and-Script-in-Fusion-360.html
+
+AVISO: Alguns destes códigos foram adaptações de códigos já existentes.
