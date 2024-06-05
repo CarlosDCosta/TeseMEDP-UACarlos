@@ -1,6 +1,3 @@
-#Author-
-#Description-
-
 #Author- Carlos Costa
 #Description- Aplicação
 
