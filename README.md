@@ -35,7 +35,7 @@ Caso de Estudo 2:
 
 
 Este repositório não só facilita a compreensão dos métodos e resultados discutidos, mas também proporciona uma base sólida para futuros trabalhos e desenvolvimentos na área de estudo abordada pela dissertação.
-Os códigos dos scripts, bem como a componente dos add-ins em que houve intervenção, podem ser individualmente verificados através da análise dos ficheiros .py
+Os códigos dos scripts, podem ser individualmente verificados através da análise dos ficheiros .py, bem como os códigos do add-ins onde houve maior intervenção (no caso dos add-ins os ficheiros são unicamente de consulta e não são funcionais, para usá-los é necessário baixar e seguir as instruções em baixo)
 
 
 Para utilização dos mesmos baixar as pastas zipadas e seguir as instruções (da instalação manual), do seguinte link: https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/How-to-install-an-ADD-IN-and-Script-in-Fusion-360.html
